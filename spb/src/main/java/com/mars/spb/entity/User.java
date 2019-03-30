@@ -1,4 +1,4 @@
-package com.mars.spb.model;/**
+package com.mars.spb.entity;/**
  * Created by Administrator on 2019/3/23.
  */
 

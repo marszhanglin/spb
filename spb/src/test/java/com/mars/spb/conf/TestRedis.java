@@ -1,6 +1,6 @@
 package com.mars.spb.conf;
 
-import com.mars.spb.model.User;
+import com.mars.spb.entity.User;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

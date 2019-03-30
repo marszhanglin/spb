@@ -1,6 +1,6 @@
 package com.mars.spb.controller;
 
-import com.mars.spb.model.User;
+import com.mars.spb.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.StringRedisTemplate;
